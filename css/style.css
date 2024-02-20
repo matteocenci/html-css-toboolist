@@ -106,6 +106,36 @@
     
 }
 
+.tag-mobile{
+    background-color: #ff9b00;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
+.tag-website{
+    background-color: #ec4a9d;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
+.tag-sales{
+    background-color: #a3d116;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
 .search-box{
     width: 250px;
     height: 30px;
