@@ -23,18 +23,93 @@
 }
 
 .container-main{
-    margin: 80px;
-    background-color: lightgray;
+    margin: 30px 80px 3px;
+    background-color: #edf2f7;
     border-radius: 6px;
     padding: 30px 50px;
     padding-right: 30px;
     text-align: center;
 }
 
+.container-main-list{
+    margin: 3px 80px;
+    background-color: #edf2f7;
+    border-radius: 6px;
+    padding: 30px 50px;
+
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #434851
+    ;
+}
+
+.task{
+    background-color: white;
+    margin: 5px 5px;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.line-trough{
+    text-decoration: line-through;
+}
+
+.check{
+    border: solid #70d9c6;
+    color: #70d9c6;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+.cross{
+    border: solid #af2f2f;
+    color: #af2f2f;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+    
+
+
+.tag-editorial{
+    background-color: #14aaf5;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
+.tag-Q1Goals{
+    background-color: #ab5de6;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
+.tag-recruiting{
+    background-color: #2cc6ab;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+
 .search-box{
     width: 250px;
     height: 30px;
-    border: solid;
+    border: solid #d0d6db;
     border-width: 1px;
     border-radius: 5px;
     padding-left: 10px;
@@ -43,7 +118,7 @@
 .button{
     width: 70px;
     height: 30px;
-    background-color: blue;
+    background-color: #14aaf5;
     color: white;
     border: none;
     border-radius: 5px;
