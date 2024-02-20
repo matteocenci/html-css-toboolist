@@ -21,3 +21,30 @@
     margin-left: auto;
 
 }
+
+.container-main{
+    margin: 80px;
+    background-color: lightgray;
+    border-radius: 6px;
+    padding: 30px 50px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.search-box{
+    width: 250px;
+    height: 30px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.button{
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
